@@ -277,7 +277,18 @@ body {
 /*////////////////////////////////////////////////////////////////////////
 //  06 - Latest works
 ///////////////////////////////////////////////////////////////////////*/
+header.testter{
+	background-color: #909194;
 
+}
+.imgloho{
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	width: 65px;
+	justify-content: center; 
+	height: 65px;
+	align-items: center;
+}
 #portfolio {
 	padding: 25% ;
 }
