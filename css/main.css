@@ -253,8 +253,11 @@ body {
 	background-color: rgba(247, 255, 248, 1);
 	padding: 16px 48px;
 }#appar{
-	margin-left: 25%;
-	margin-right: 25%;
+	/* margin-left: 10%; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 	
 }
 #paddRep{
@@ -266,9 +269,10 @@ body {
 	background-color: rgba(32, 36, 47, 0.94);
 }
 #advantages{
-	padding-top: 5%;
-	padding-right: 10%;
-	padding-left: 10%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 /*////////////////////////////////////////////////////////////////////////
 //  06 - Latest works
